@@ -1,11 +1,28 @@
-### Prompt para obtener listado de pantallas
+Prompt para obtener listado de pantallas
+Eres un Product Designer experto con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es diseñar una serie de pantallas que faciliten la digitalización de los talleres y la experiencia del cliente a través de un proceso bien estructurado.
 
-Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas** que faciliten `[Objetivo_principal_del_proceso]` a través de un proceso bien estructurado.
+Quiero crear una interfaz de usuario integral para una aplicación móvil destinada a conductor y proveedores de servicios (talleres). La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los usuarios.
 
-Quiero crear una **interfaz de usuario integral para una aplicación móvil** destinada a `[Descripción_del_proceso]`. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
+Quiero que generes una lista secuencial de pantallas que respalden los procesos principales descritos a continuación:
 
-Quiero que generes una **lista secuencial de pantallas** que respalden los procesos principales descritos a continuación:
+1. Flujo del Conductor: Agendar una cita y aprobar un servicio:
 
-`[Proceso_seleccionadao_para_modelar]`
+Subproceso: Búsqueda de taller.
 
-Quiero que crees una **lista detallada de pantallas** que respalden los objetivos y subprocesos anteriores, asegurando una experiencia **intuitiva y eficiente para los `[Tipo_de_usuario]`**. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de `[Objetivo_del_proceso_principal]`.
+Subproceso: Agendar cita.
+
+Subproceso: Recibir y aprobar diagnóstico digital.
+
+Subproceso: Calificar servicio.
+
+2. Flujo del Proveedor de Servicio (Taller): Gestión de servicios y diagnósticos:
+
+Subproceso: Gestión de citas.
+
+Subproceso: Creación de diagnóstico digital.
+
+Subproceso: Envío de presupuesto al cliente.
+
+Subproceso: Actualización de estado del servicio.
+
+Quiero que crees una lista detallada de pantallas que respalden los objetivos y subprocesos anteriores, asegurando una experiencia intuitiva y eficiente para el conductor y el personal del taller. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de modernizar el sector de talleres mecánicos para resolver la ineficiencia y la falta de transparencia en los diagnósticos.
